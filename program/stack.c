@@ -2,6 +2,9 @@
 
 
 int main (void){
-    printf("ahmed");
+    for(int i=40;i<=200;i++){
+        printf("%c",i);
     }
+}
+
 
