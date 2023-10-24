@@ -1,18 +1,11 @@
 #include <stdio.h>
-void draw(int n){
-if(n==0){return;}
-  for(int i=0;i<n;i++){
-    printf("#");
-  }
-  printf("\n");
-draw(n-1);
 
+
+void main(void){
+  int *n=56;
+  int *y=57;
+  char *z="c";
+  printf("%",n)
+  printf("%",y)
+  printf("%",z)
 }
-
-int main (void){
-
-        draw(4);
-
-}
-
-
