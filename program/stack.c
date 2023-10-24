@@ -7,7 +7,8 @@ void draw(int n){
     printf("#");
   }
 printf("\n");
-  draw(x+1);
+
+  
 }
 
 int main (void){
