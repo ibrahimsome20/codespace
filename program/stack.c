@@ -5,6 +5,6 @@ int plus(int x,int y){
 }
 int main (void){
     printf("hello world\n");
-   int x= plus(50,20);
-   printf("your result is %i\n"x);
+    int x= plus(50,20);
+    printf("your result is %i\n"x);
 }
