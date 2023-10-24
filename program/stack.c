@@ -5,7 +5,8 @@ int plus(int x,int y){
     return result;
 }
 int main (void){
-    for(int i=0,i<5,i++){
+    int i;
+    for(i=0,i<5,i++){
        printf("#");
     }
     printf("\n");
