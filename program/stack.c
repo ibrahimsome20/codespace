@@ -7,8 +7,8 @@ void draw(int n){
     printf("#");
   }
 printf("\n");
+printf("%i",x+1);
 
-draw(n-1);
 }
 
 int main (void){
