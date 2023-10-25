@@ -2,6 +2,8 @@
 
 
 tybeofdef strict* node(){
+    node*=n;
+    
 
 }
 
