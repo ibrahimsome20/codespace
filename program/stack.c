@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 
-tybedef strict* node(){
-    
+tybeofdef strict* node(){
+
 }
 
 
