@@ -1,6 +1,13 @@
 
-for i
-  print("hello")
+num1=input("enter first number")
+num2=input("enter your second number")
 
+
+def sum_number(num1,num2):
+    result=int(num1)+int(num2)
+    return result
+
+x=sum_number()
+print(x*10)
 
 
