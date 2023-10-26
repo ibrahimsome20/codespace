@@ -4,8 +4,8 @@ while True:
     if num1 >=0 and num2 >=0:
         break
 
-def sum_number((num1),int(num2)):
-    result=num1+num2
+def sum_number(num1,num2):
+    result=int(num1)+int(num2)
     return result
 
 x=sum_number()
