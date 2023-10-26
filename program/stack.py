@@ -1,7 +1,7 @@
 while True:
     try:
-        num1=int(input("enter first number: "))
-        num2=int(input("enter your second number: "))
+        num1=float(input("enter first number: "))
+        num2=float(input("enter your second number: "))
         if num1 >=0 and num2 >=0:
              break
         elif num1 <=0 and num2 <=0:
