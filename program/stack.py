@@ -1,16 +1,13 @@
 while True:
     try:
-    num1=int(input("enter first number"))
-    num2=int(input("enter your second number"))
-    if type(num1)== str or type(num2) == str:
-          print("you must write number")
-          exit()
-    elif num1 >=0 and num2 >=0:
-            break
-    elif num1 <=0 and num2 <=0:
-          break
-          exit()
+        num1=int(input("enter first number"))
+        num2=int(input("enter your second number"))
+        if num1 >=0 and num2 >=0:
+             break
+        elif num1 <=0 and num2 <=0:
+            print("you must enter number positive number")
     except:
+        print("enter number only")
 
 
 def sum_number(x,y):
