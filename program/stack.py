@@ -1,13 +1,13 @@
 while True:
-    num1=int(input("enter first number"))
-    num2=int(input("enter your second number"))
+    num1=(input("enter first number"))
+    num2=(input("enter your second number"))
     if num1 >=0 && num2 >=0:
         break
-    if num1 <=0 && num2 <=0:
-        cont
 
 
-def sum_number(num1,num2):
+
+
+def sum_number(int(num1),int(num2)):
     result=num1+num2
     return result
 
