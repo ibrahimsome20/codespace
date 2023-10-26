@@ -4,8 +4,12 @@ while True:
     if type(num1)== str or type(num2) == str:
           print("you must write number")
           break
+          exit()
     elif num1 >=0 and num2 >=0:
-            break
+            continue
+    elif num1 <=0 and num2 <=0:
+          break
+          exit()
 
 def sum_number(num1,num2):
     result=int(num1)+int(num2)
