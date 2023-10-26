@@ -11,7 +11,7 @@ while True:
 
 
 def sum_number(x,y):
-    result=int(x)+int(y)
+    result=x+y
     return result
 
 x=sum_number(num1,num2)
