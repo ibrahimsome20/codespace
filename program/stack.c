@@ -1,13 +1,8 @@
 #include <stdio.h>
-
-
-tybeofdef strict* node(){
-    node*=n;
-    
-
-}
+#include <c50.h>
 
 
 void int main(){
 
 }
+
