@@ -3,7 +3,7 @@ while True:
     num2=input("enter your second number")
     if type(num1)== str or type(num2) == str:
           print("you must write number")
-          break
+          
           exit()
     elif num1 >=0 and num2 >=0:
             continue
