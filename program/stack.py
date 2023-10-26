@@ -3,7 +3,7 @@ while True:
     num2=input("enter your second number")
     print(type(num1))
 
-    # if type(num1)==<> or type(num2)==str():
+    # if type(num1)== or type(num2)==str():
 
     #     if num1 >=0 and num2 >=0:
     #         break
