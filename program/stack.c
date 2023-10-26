@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <c50.h>
+#include <cs50.h>
 
 float sum(float x,float y){
     float result=x+y;
