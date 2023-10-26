@@ -11,11 +11,11 @@ while True:
           break
           exit()
 
-def sum_number(num1,num2):
-    result=int(num1)+int(num2)
+def sum_number(x,y):
+    result=int(x)+int(y)
     return result
 
-x=sum_number()
+x=sum_number(num1,num2)
 print(x*10)
 
 
