@@ -3,7 +3,8 @@ while True:
     num2=int(input("enter your second number"))
     if num1 >=0 && num2 >=0:
         break
-    i
+    if num1 <=0 && num2 <=0:
+        cont
 
 
 def sum_number(num1,num2):
